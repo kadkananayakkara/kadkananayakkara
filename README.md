@@ -1,6 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&animation=fadeIn" width="100%"/>
-
 <div align="center">
+
+<!-- Advanced Neon Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20&height=230&section=header&text=Abhishek%20Nanayakkara&fontSize=55&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
+<!-- Dynamic Animated Typing Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Project+Ouro;Learning+Flutter+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br>
 
 # 💫 About Me
 🔭 I’m currently working on **Project Ouro** (an AI-integrated Learning Management System)<br>
