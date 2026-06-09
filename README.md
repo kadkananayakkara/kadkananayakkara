@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Advanced Neon Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20&height=230&section=header&text=Abhishek%20Nanayakkara&fontSize=55&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20&height=230&section=header&text=Hi,Im%20Abhishek&fontSize=55&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 <!-- Dynamic Animated Typing Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Project+Ouro;Learning+Flutter+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+UI+UX+Enthusiast;Learning+Flutter+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
